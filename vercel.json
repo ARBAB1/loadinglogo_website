@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/webmail",
+        "destination": "https://webmail.loadinglogo.com",
+        "permanent": true
+      }
+    ]
+  }
+  
